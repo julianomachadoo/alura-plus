@@ -118,14 +118,18 @@ body {
 
 .rodape {
     text-align: center;
-    margin: 5em 3em;
+    margin: 10em 3em;
+}
+
+.rodape__logo {
+    margin-bottom: 2em;
 }
 
 .rodape__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin: 5em auto;
+    margin: 2em auto;
 }
 
 .lista__link a {
